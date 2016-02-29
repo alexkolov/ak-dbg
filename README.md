@@ -1,10 +1,10 @@
 # dbg
 
-A Clojure library designed to ... well, that part is up to you.
+Tiny debug lib for Clojure
 
 ## Usage
 
-FIXME
+(dbg (+ 2 3))
 
 ## License
 
