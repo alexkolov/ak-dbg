@@ -1,4 +1,4 @@
-(ns dbg.core
+(ns ak-dbg.core
   (:require
    [puget.printer :as puget]))
 

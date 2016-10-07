@@ -4,7 +4,7 @@ Tiny debug lib for Clojure
 
 ## Installation
 
-[de.kolov/dbg "0.2.1"]
+[![Clojars Project](https://img.shields.io/clojars/v/de.kolov/dbg.svg)](https://clojars.org/de.kolov/dbg)
 
 ## Usage
 
