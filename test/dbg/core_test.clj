@@ -1,6 +1,6 @@
-(ns dbg.core-test
+(ns ak-dbg.core-test
   (:require [clojure.test :refer :all]
-            [dbg.core :refer :all]))
+            [ak-dbg.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
